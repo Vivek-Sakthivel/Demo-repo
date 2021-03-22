@@ -21,3 +21,6 @@ print s
 No language indicated, so no syntax highlighting. 
 But let's throw in a <b>tag</b>.
 ```
+
+## Practise sessio 2
+1. creating a branch and seeing what can we do about that
